@@ -10,4 +10,7 @@ ro.charger.enable_suspend=1
 # Timezone
 persist.sys.timezone=Asia/Shanghai
 
+#Boot Dynamic
+ro.boot.dynamic_partitions=true
+
 keymaster_ver=4.0
